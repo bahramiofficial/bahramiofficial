@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm peyman bahrami</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
+<img align="right" alt="GIF" height="100%" width="35%" src="https://static.wikia.nocookie.net/minecraftcreepypasta/images/b/b6/5-asciiguy-red.gif/revision/latest?cb=20180523023848" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahramiofficial&label=Profile%20views&color=0e75b6&style=flat" alt="bahramiofficial" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahramiofficial" alt="bahramiofficial" /></a> </p>
 
 
-<img align="right" alt="GIF" height="100%" width="35%" src="https://static.wikia.nocookie.net/minecraftcreepypasta/images/b/b6/5-asciiguy-red.gif/revision/latest?cb=20180523023848" />
 
 
 - 💬 Ask me about **Ai, Django, Laravel,**

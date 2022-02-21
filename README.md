@@ -23,3 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bahramiofficial&show_icons=true&locale=en" alt="bahramiofficial" /></p>
 
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+<img src="https://activity-graph.herokuapp.com/graph?username=amananku26&theme=github" alt="GitHub Activity Graph" width="100%" />

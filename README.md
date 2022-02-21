@@ -26,4 +26,4 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-<img src="https://activity-graph.herokuapp.com/graph?username=amananku26&theme=github" alt="GitHub Activity Graph" width="100%" />
+<img src="https://activity-graph.herokuapp.com/graph?username=bahramiofficial&theme=github" alt="GitHub Activity Graph" width="100%" />

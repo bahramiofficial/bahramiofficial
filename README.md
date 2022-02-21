@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahramiofficial" alt="bahramiofficial" /></a> </p>
 
-- 💬 Ask me about **Django, DataSince, laravel,**
+- 💬 Ask me about **Django, Ai, Laravel,**
 
 - 📫 How to reach me **mrbahramiam@gmail.com**
 

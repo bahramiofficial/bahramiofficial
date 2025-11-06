@@ -10,12 +10,10 @@
 - ⚙️ Focused on **clean architecture**, **concurrency**, and **performance optimization**  
 - 📫 Reach me at: **mrbahramiam@gmail.com**
 
----
+--- 
+### 📊 My GitHub Contributions
 
-### 🟩 GitHub Contribution Graph
-<p align="center">
-  <img src="https://github.com/bahramiofficial/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bahramiofficial&theme=react-dark&area=true&hide_border=true)
 ---
 
 ### ⚙️ Tech Stack

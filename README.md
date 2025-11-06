@@ -12,17 +12,9 @@
 
 ---
 
-### 🌐 Connect With Me  
+### 🟩 GitHub Contribution Graph
 <p align="center">
-  <a href="https://twitter.com/mrbahramiam" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/peyman-bahrami-1790ab161" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/aieducation.ir" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://github.com/bahramiofficial/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -39,35 +31,31 @@
 
 ---
 
+
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://twitter.com/mrbahramiam" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/peyman-bahrami-1790ab161" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/aieducation.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+
+
 ### 🛠️ Tools & Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,rust,flutter,docker,linux,redis,postgresql,mysql,mongodb,git,python,php,vue,html,css,nginx" />
 </p>
-
+ 
+ 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahramiofficial&show_icons=true&theme=github_dark&hide_border=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahramiofficial&theme=github-dark-blue&hide_border=true" width="49%">
-</p>
-
----
-
-### 🟩 Contribution Activity (Commit Heatmap)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahramiofficial&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahramiofficial&show_icons=true&theme=github_dark&hide_border=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahramiofficial&theme=github-dark-blue&hide_border=true" width="49%">
-</p>
-
----
+ 
 
 ### 🏆 GitHub Trophies
 <p align="center">

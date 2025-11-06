@@ -16,7 +16,6 @@
 <p align="center">
   <img src="https://github.com/bahramiofficial/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
 ---
 
 ### ⚙️ Tech Stack

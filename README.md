@@ -54,9 +54,17 @@
 
 ---
 
-### 📈 Contribution Graph
+### 🟩 Contribution Activity (Commit Heatmap)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahramiofficial&theme=github-dark" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahramiofficial&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bahramiofficial&show_icons=true&theme=github_dark&hide_border=true" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahramiofficial&theme=github-dark-blue&hide_border=true" width="49%">
 </p>
 
 ---

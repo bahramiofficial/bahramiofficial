@@ -10,11 +10,7 @@
 - ⚙️ Focused on **clean architecture**, **concurrency**, and **performance optimization**  
 - 📫 Reach me at: **mrbahramiam@gmail.com**
 
---- 
-### 📊 My GitHub Contributions
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bahramiofficial&theme=react-dark&area=true&hide_border=true)
----
+ 
 
 ### ⚙️ Tech Stack
 | Category | Technologies |
@@ -50,20 +46,4 @@
   <img src="https://skillicons.dev/icons?i=go,rust,flutter,docker,linux,redis,postgresql,mysql,mongodb,git,python,php,vue,html,css,nginx" />
 </p>
  
- 
----
- 
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bahramiofficial&theme=onestar&column=6&margin-w=15&margin-h=15" />
-</p>
-
----
-
-### 💡 Quote of the Day  
-> “Simplicity is the soul of efficiency.” — Austin Freeman  
-
----
-
-⭐ **If you like my work, give it a star — it helps more than you think!**
+  

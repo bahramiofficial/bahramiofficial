@@ -43,7 +43,7 @@
 
 ### 🛠️ Tools & Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,flutter,docker,linux,redis,postgresql,mysql,mongodb,git,python,php,vue,html,css,nginx" />
+  <img src="https://skillicons.dev/icons?i=go,rust,flutter,,python,php,vue" />
 </p>
  
   
